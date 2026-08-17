@@ -19,12 +19,15 @@ Option:
 
 If the user chooses an operation (for example, "1" for addition), the program should prompt for two numbers:
 
+```
 Enter the first number: 5
 Enter the second number: 3
 Result: 5 + 3 = 8
+```
 After displaying the result, the program will ask if the user wants to perform another operation:
-
+```
 Do you want to perform another operation? (y/n):
+```
 If the user types "y", the program returns to the initial menu. Otherwise, it displays a farewell message and exits:
 
 Thank you for using the calculator! See you next time.
