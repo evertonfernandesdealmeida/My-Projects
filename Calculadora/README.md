@@ -69,10 +69,10 @@ You need to implement mathematical operations
 - Calculation and Displaying the Result:
 
    - The program must perform the mathematical operation corresponding to the selected option:
-      - 1.Addition: add the two numbers.
-      - 2.Subtraction: subtract the second number from the first.
-      - 3.Multiplication: multiply the two numbers.
-      - 4.Division: divide the first number by the second.
+      - 1. Addition: add the two numbers.
+      - 2. Subtraction: subtract the second number from the first.
+      - 3. Multiplication: multiply the two numbers.
+      - 4. Division: divide the first number by the second.
 - It should display the result in the specified format, including the correct mathematical operator:
 ```
 1 | Result: [number1] [operator] [number2] = [result]
