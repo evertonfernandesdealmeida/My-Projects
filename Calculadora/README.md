@@ -5,16 +5,16 @@ In this project, you will create a text-based calculator program that operates e
 When the program is executed, it should display an initial menu with the following options:
 
 ```
-===============================
-   Simple Calculator
-===============================
-Select an operation:
-1. Addition
-2. Subtraction
-3. Multiplication
-4. Division
-5. Exit
-Option:
+ 1 | ===============================
+ 2 |   Simple Calculator
+ 3 | ===============================
+ 4 | Select an operation:
+ 5 | 1. Addition
+ 6 | 2. Subtraction
+ 7 | 3. Multiplication
+ 8 | 4. Division
+ 9 | 5. Exit
+10 | Option:
 ```
 
 If the user chooses an operation (for example, "1" for addition), the program should prompt for two numbers:
