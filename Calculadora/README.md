@@ -1,4 +1,4 @@
-# Text-based Calculator in C
+# (PROJECT 01) Text-based Calculator in C
 
 In this project, you will create a text-based calculator program that operates entirely in the terminal. The idea is simple: when you run the program, it will display a menu of options for the user, allowing them to choose a mathematical operation such as addition, subtraction, multiplication, or division. Then, the user enters the numbers and receives the result immediately. It's practical, functional, and above all, a great exercise to consolidate the fundamentals of C programming!
 
