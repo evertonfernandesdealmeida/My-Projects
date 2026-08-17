@@ -32,7 +32,7 @@ If the user types "y", the program returns to the initial menu. Otherwise, it di
 Thank you for using the calculator! See you next time.
 ```
 
-## 📂 Required Files
+## :open_file_folder: Required Files
 Your project need to have the following files:
 
 main.c: Contains the main source code of the program with all implemented functionalities.
