@@ -4,7 +4,7 @@ In this project, you will create a text-based calculator program that operates e
 
 When the program is executed, it should display an initial menu with the following options:
 
-'''
+```
 ===============================
    Simple Calculator
 ===============================
@@ -15,7 +15,7 @@ Select an operation:
 4. Division
 5. Exit
 Option:
-'''
+```
 
 If the user chooses an operation (for example, "1" for addition), the program should prompt for two numbers:
 
