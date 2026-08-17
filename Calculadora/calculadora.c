@@ -54,10 +54,11 @@ int main() {
             continue;
         }
 
-        int first_number, second_number;
+        int first_number;
         printf("Enter the first number: ");
         scanf("%d", &first_number);
 
+        int second_number;
         printf("Enter the second number: ");
         scanf("%d", &second_number);
 
