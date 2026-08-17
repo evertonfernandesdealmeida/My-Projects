@@ -1,8 +1,10 @@
 # Text-based Calculator in C
+
 In this project, you will create a text-based calculator program that operates entirely in the terminal. The idea is simple: when you run the program, it will display a menu of options for the user, allowing them to choose a mathematical operation such as addition, subtraction, multiplication, or division. Then, the user enters the numbers and receives the result immediately. It's practical, functional, and above all, a great exercise to consolidate the fundamentals of C programming!
 
 When the program is executed, it should display an initial menu with the following options:
 
+'''
 ===============================
    Simple Calculator
 ===============================
@@ -13,6 +15,8 @@ Select an operation:
 4. Division
 5. Exit
 Option:
+'''
+
 If the user chooses an operation (for example, "1" for addition), the program should prompt for two numbers:
 
 Enter the first number: 5
