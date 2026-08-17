@@ -56,3 +56,35 @@ Your program needs to implement the initial menu and option selection
 
    - If the user selects option 5 (Exit), the program should display the farewell message
    - After displaying the message, the program should terminate execution.
+
+### Requirement 2
+Points: 40
+You need to implement mathematical operations
+
+- Requesting Numbers:
+
+   - For options 1 to 4, the program must prompt the user to input two numbers, displaying exactly the following prompts
+   - It should read the two numbers entered by the user, allowing both integers and decimals.
+
+- Calculation and Displaying the Result:
+
+   - The program must perform the mathematical operation corresponding to the selected option:
+      - 1.Addition: add the two numbers.
+      - 2.Subtraction: subtract the second number from the first.
+      - 3.Multiplication: multiply the two numbers.
+      - 4.Division: divide the first number by the second.
+- It should display the result in the specified format, including the correct mathematical operator:
+```
+1 | Result: [number1] [operator] [number2] = [result]
+```
+Example:
+```
+1 | Result: 5 + 3 = 8
+```
+- Error Handling for Division:
+
+   - If the user attempts to divide by zero, the program must detect this situation and display an appropriate error message, such as:
+   ```
+   Error: Division by zero is not allowed.
+   ```
+   - After the error, it should prompt the user to decide whether to perform another operation.
